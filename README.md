@@ -1,6 +1,8 @@
 # gam_r
 Generalized additive models (modelling) Use gam With (In) R Software
 
+https://www.youtube.com/watch?v=FBFRWOizcAo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
